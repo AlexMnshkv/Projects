@@ -7,7 +7,6 @@ A small project to read data from a cascade of folders into dataframe. Data anal
 
 ### Built With
 
-* [![Python][python.org]][Python-url]
-
+* Python using the Pandas library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
